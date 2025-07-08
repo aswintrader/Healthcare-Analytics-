@@ -29,13 +29,6 @@ This dashboard helps in identifying:
 - Which hospital tiers contribute to the highest costs
 - Correlation between diabetes, weight, and patient charges
 
-## 🚀 Future Improvements
-- Convert to Power BI or Tableau for interactivity
-- Integrate Python for data preprocessing
-- Publish as web dashboard using Streamlit
-
 ---
 
 > 📫 **Let’s Connect on [LinkedIn](https://www.linkedin.com/in/YOUR-ID)**  
-> 🌟 Give a ⭐ if you found this helpful!
-> 
