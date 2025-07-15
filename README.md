@@ -17,11 +17,7 @@ This project is a **Healthcare Analytics Dashboard** built using **Microsoft Exc
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](Screenshot.png)
-
-## 📂 File Included
-- `Healthcare_Dashboard.xlsx`: Fully interactive Excel dashboard
-- `Screenshot.png`: Visual preview of the dashboard
+![Image alt](https://github.com/aswintrader/Healthcare-Analytics-/blob/main/Screenshot%202025-07-01%20170555.png?raw=true)
 
 ## 💡 Insights
 This dashboard helps in identifying:
